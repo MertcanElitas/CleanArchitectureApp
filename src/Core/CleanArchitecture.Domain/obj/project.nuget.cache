@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2MocZXlqs9QibhzU5Mma3Vub7eoj7rwd6X0ih0L3y+/0lZgD6TNq68bD/rYGGS7jbeUplY9xalC6/SiHMRYoxw==",
+  "success": true,
+  "projectFilePath": "/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/melitas/.nuget/packages/elasticsearch.net/7.17.5/elasticsearch.net.7.17.5.nupkg.sha512",
+    "/Users/melitas/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/melitas/.nuget/packages/nest/7.17.5/nest.7.17.5.nupkg.sha512",
+    "/Users/melitas/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/melitas/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

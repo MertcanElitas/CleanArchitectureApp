@@ -1,0 +1,12 @@
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.deps.json
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.AssemblyReference.cache
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/refint/CleanArchitecture.Domain.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/ref/CleanArchitecture.Domain.dll

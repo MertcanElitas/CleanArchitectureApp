@@ -1,0 +1,15 @@
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.deps.json
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/refint/CleanArchitecture.Application.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/ref/CleanArchitecture.Application.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/melitas/CustomProjects/CleanArchitectureApp/src/Core/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CopyComplete
